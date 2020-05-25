@@ -1,0 +1,6 @@
+name: aKits
+main: dev.tinchx.kits.KitsPlugin
+version: 1.0-CTRL
+author: Tinchx
+depend:
+  - Root
